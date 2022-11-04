@@ -6,7 +6,7 @@
      Data Science and Machine learning, 
      particulary interested in Data Wrangling (Cleaning the data fascinates me), 
      Exploratory Data Analysis (Without this how can i Live)
-     and Mostly in the field of Classical Machine Learning field (For Now)
+     and Mostly in the field of Classical Machine Learning (For Now)
                        
  🌱 I’m currently learning:
      
