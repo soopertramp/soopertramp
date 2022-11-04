@@ -14,7 +14,7 @@
  
  💞️ I’m looking to collaborate on:
  
-     any data science and machine learning related projects
+     Any data science and machine learning related projects
 
 📫 How to reach me:
 
