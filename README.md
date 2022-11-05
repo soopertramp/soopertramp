@@ -8,7 +8,7 @@
      Exploratory Data Analysis (Without this how can i Live)
      and Mostly in the field of Classical Machine Learning (For Now)
                        
- 🌱 I’m currently learning:
+ 🌱 I’m currently learning and Working on:
      
      Machine learning Models and Working on some capstone projects.
  
