@@ -1,4 +1,6 @@
-                                            👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07) 
+                                          👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07) 
+                                          ![1603716453707](https://user-images.githubusercontent.com/105790496/200161192-7b74ec69-7a04-47ab-9b40-1d4e208d3f88.jpg)
+
 
  
  👀 I’m interested in:
