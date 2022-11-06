@@ -2,7 +2,7 @@
                                       
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pradeepchandra Reddy S C&label=Profile%20views&color=0e75b6&style=flat" alt="sarpit2021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="sarpit2021" /> </p>
                                           
 
  
