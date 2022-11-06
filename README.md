@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/soopertramp/soopertramp/blob/main/Icons)" alt="pradeepchandra-reddy-s-c/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="[https://github.com/soopertramp/soopertramp/blob/main/Icons]" alt="pradeepchandra-reddy-s-c/" height="30" width="40" /></a>
   
 </p>
 
