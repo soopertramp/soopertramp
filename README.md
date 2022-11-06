@@ -27,7 +27,11 @@
      
      Twitter - [@soopertramp07]
      
+<h3 align="left">My Projects :</h3>
+<p align="left">
 
+<a href="https://github.com/soopertramp/My-Projects" target="blank"><img align="center" src="https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-icon-design-vector.jpg" alt="pradeepchandra-reddy-s-c/" height="80" width="80" /></a>
+  
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 
