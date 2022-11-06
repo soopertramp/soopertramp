@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="[https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw]" alt="pradeepchandra-reddy-s-c/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="[https://icons8.com/icon/vWcULbkKy3DN/linkedin-2]" alt="pradeepchandra-reddy-s-c/" height="30" width="40" /></a>
   
 </p>
 
