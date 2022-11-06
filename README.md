@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07)</h1>
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/105790496?s=400&u=8708575309bab533a21f8fee28242a5d25483876&v=4)
+
                                       
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
@@ -52,7 +54,7 @@
 
 </a><a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/>            </a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/>  </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soopertramp&show_icons=true&locale=en" alt="soopertramp" /></p>
 
 
 <!---
