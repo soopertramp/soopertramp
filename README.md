@@ -1,4 +1,4 @@
-                                               👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07) 
+                                            👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07) 
 
  
  👀 I’m interested in:
