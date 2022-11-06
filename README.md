@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07)</h1>
+<h1 align="center">👋 Hi, I’m Pradeepchandra Reddy S C</h1>
 
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
