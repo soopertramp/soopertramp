@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I’m Pradeepchandra Reddy S C (AKA Soopertramp07)</h1>
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/105790496?s=400&u=8708575309bab533a21f8fee28242a5d25483876&v=4)
 
-                                      
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="sarpit2021" /> </p>
