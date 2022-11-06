@@ -25,7 +25,14 @@
 
      Mail - pradeepchandrareddy95@gmail.com
      
-     Twitter - [@soopertramp07]
+     Twitter - @soopertramp07
+     
+
+     
+<h3 align="left">My Practice :</h3>
+<p align="left">
+
+<a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="Hackerrank" height="100" width="180" /></a>
      
 <h3 align="left">My Projects :</h3>
 <p align="left">
@@ -43,13 +50,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-</a><a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/> </a> </p>
-
-</a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/> </a> </p>
-
-<p align="left"> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  
-</a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
+</a><a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/>            </a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/>  </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soopertramp&show_icons=true&locale=en" alt="soopertramp" /></p>
 
