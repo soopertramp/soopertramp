@@ -26,6 +26,15 @@
      Mail - pradeepchandrareddy95@gmail.com
      LinkedIn - [https://www.linkedin.com/in/pradeepchandra-reddy-s-c](https://www.linkedin.com/in/pradeepchandra-reddy-s-c)
      Twitter - [@soopertramp07]
+     
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sarpit2021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarpit2021" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit-shah-5ab960178/" height="30" width="40" /></a>
+<a href="https://kaggle.com/arpitshah2021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arpitshah2021" height="30" width="40" /></a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
