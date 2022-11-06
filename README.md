@@ -24,7 +24,7 @@
 📫 How to reach me:
 
      Mail - pradeepchandrareddy95@gmail.com
-     LinkedIn - [https://www.linkedin.com/in/pradeepchandra-reddy-s-c]
+     LinkedIn - [https://www.linkedin.com/in/pradeepchandra-reddy-s-c](https://www.linkedin.com/in/pradeepchandra-reddy-s-c)
      Twitter - [@soopertramp07]
 
                 
