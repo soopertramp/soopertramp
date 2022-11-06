@@ -45,7 +45,7 @@
   
 </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/> </a> </p>
 
-</a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="file:///C:/Users/Delll/Downloads/tableau-software.svg" alt="tableau" width="100" height="80"/> </a> </p>
+</a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soopertramp&show_icons=true&locale=en" alt="soopertramp" /></p>
 
