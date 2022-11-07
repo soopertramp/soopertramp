@@ -40,7 +40,7 @@
 <h3 align="left">My Projects :</h3>
 <p align="left">
 
-<a href="https://github.com/soopertramp/My-Projects" target="blank"><img align="center" src="https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-icon-design-vector.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="60" /></a>
+<a href="https://github.com/soopertramp/My-Projects" target="blank"><img align="center" src="http://projects-studio.co.uk/wp-content/uploads/2017/07/THE-PROJECTS-STUDIO-Logo-v1.png" alt="pradeepchandra-reddy-s-c/" height="60" width="120" /></a>
   
 <h3 align="left">Connect with me :</h3>
 <p align="left">
