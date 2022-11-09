@@ -7,7 +7,7 @@
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="sarpit2021">
+  <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep's Profile Views">
                                          
  👀 I’m interested in:
  
