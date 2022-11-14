@@ -29,8 +29,11 @@
      Mail - pradeepchandrareddy95@gmail.com
      
      Twitter - @soopertramp07
-     
-
+  
+     <h3 align="left">My Projects :</h3>
+     <p align="left">
+     src="https://cdn.iconscout.com/icon/free/png-256/down-arrow-1767595-1502499.png" alt="HackerRank" height="100" width="180" /></a>
+  
      
 <h3 align="left">My Practice :</h3>
 <p align="left">
