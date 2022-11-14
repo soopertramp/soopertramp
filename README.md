@@ -24,7 +24,7 @@
  
      Any data science and machine learning related projects
 
-📫 How to reach me:
+ 📫 How to reach me:
 
      Mail - pradeepchandrareddy95@gmail.com
      
