@@ -18,7 +18,7 @@
                        
  🌱 I’m currently learning and Working on:
      
-     Machine learning Models and Working on some capstone projects.
+     LearningMachine learning Models and Working on some capstone projects.
  
  💞️ I’m looking to collaborate on:
  
