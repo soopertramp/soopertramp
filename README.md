@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, I'm Pradeepchandra Reddy S C!
+  𝐇𝐞𝐥𝐥𝐨, I'm <b>Pradeepchandra Reddy S C!<b>
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" />
 </h1>
 
