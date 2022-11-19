@@ -33,7 +33,7 @@
 <h3 align="left">Check Out My Portfolio :</h3>
 <p align="left">
 
-<a href="soopertramp.github.io/portfolio/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="pradeepchandra-reddy-s-c/" height="100" width="180" />
+<a href="https://soopertramp.github.io/portfolio/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="pradeepchandra-reddy-s-c/" height="100" width="180" />
   
 <h3 align="left">My Practice :</h3>
 <p align="left">
