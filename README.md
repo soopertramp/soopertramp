@@ -7,7 +7,7 @@
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
 <p align="left">
-  <img src="https://github.com/soopertramp/soopertramp/blob/main/Pradeepchandra%20Reddy%20S%20C%20(3).png" alt="Background">  
+  <img src="https://github.com/soopertramp/soopertramp/blob/main/Travel%20daily%20vlog%20(3).png" alt="Background">  
   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep'sProfileViews">
