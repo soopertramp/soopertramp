@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" />
 </h1>
 
-<h3 align="center">Data Analyst / Data Scientist / Machine Learning Enginer</h3>
+<h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
 
 <p align="left">
   <img src="https://github.com/soopertramp/soopertramp/blob/main/Travel%20daily%20vlog%20(3).png" alt="Background">  
