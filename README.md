@@ -3,8 +3,14 @@
   𝐇𝐞𝐥𝐥𝐨, I'm <b>Pradeepchandra Reddy S C<b>
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" />
 </h1>
+  
+<p align="center">
+<a href="https://github.com/soopertramp">
+    <img src="https://readme-typing-svg.demolab.com?font=Ariel&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=500&height=100&lines=;Data Analyst+%7C+Data Scientist;Machine Learning Engineer" alt="Typing SVG" />
+  
 
-<h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3>
+ <!--
+<h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3> -->
 
 <p align="left">
   <img src="https://github.com/soopertramp/soopertramp/blob/main/Travel%20daily%20vlog%20(3).png" alt="Background">  
