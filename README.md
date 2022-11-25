@@ -11,6 +11,12 @@
   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep'sProfileViews">
+  
+<br/> 
+
+<a href="https://github.com/soopertramp">
+    <img src="https://github-stats-alpha.vercel.app/api?username=soopertramp&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="1024px">
+</a>
                                          
  👀 I’m interested in:
  
