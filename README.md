@@ -9,6 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Ariel&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=500&height=100&lines=;Data Analyst+%7C+Data Scientist;Machine Learning Engineer" alt="Typing SVG" />
   
 
+
  <!--
 <h3 align="center">Data Analyst / Data Scientist / Machine Learning Engineer</h3> -->
 
