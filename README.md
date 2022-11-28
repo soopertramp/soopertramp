@@ -51,7 +51,9 @@
 <p align="left">
 
 <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>
-     
+
+It's Currently a Private Repository  
+
 <h3 align="left">My Projects :</h3>
 <p align="left">
 
