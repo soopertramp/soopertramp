@@ -53,25 +53,25 @@
 <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>
 
 <h3> ⬆️ It's Currently a Private Repository </h3>  
-
+  <br>
 <h3 align="left">My Projects :</h3>
 <p align="left">
-
+ <br>
 <a href="https://github.com/soopertramp/My-Projects" target="blank"><img align="center" src="http://projects-studio.co.uk/wp-content/uploads/2017/07/THE-PROJECTS-STUDIO-Logo-v1.png" alt="pradeepchandra-reddy-s-c - Projects" height="60" width="120" /></a>
-  
+    <br>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-
+ 
 <a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="pradeepchandra-reddy-s-c LinkedIn" height="50" width="120" /></a>
   
 </p>
 
-
+  <br>
 
 <h3 align="left">Languages and Tools:</h3>
 
 </a><a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/>            </a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/>  </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://numpy.org/images/twitter-image.jpg" alt="scikit_learn" width="100" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="scikitlearn" width="120" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.davecwright.org/files/sps-files/figures/dave/scipy.png" alt="scikit_learn" width="120" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" alt="scikit_learn" width="160" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://jorisvandenbossche.github.io/2018_DigiCosme_Software_Day/img/sklearn_logo.png" alt="scikit_learn" width="120" height="50"/> 
-
+  <br>
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=soopertramp&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
