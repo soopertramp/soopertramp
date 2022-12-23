@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="24px"> I'm <b>Pradeepchandra Reddy S C<b>
+  **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Pradeepchandra Reddy S C<b>
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" />
 </h1>
   
