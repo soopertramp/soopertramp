@@ -32,7 +32,7 @@
                        
  🌱 I’m currently learning and Working on:
      
-     Learning Machine learning Models and Working on some capstone projects.
+     Machine learning Models and Working on some capstone projects.
  
  💞️ I’m looking to collaborate on:
  
