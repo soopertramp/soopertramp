@@ -6,7 +6,7 @@
   
 <p align="center">
 <a href="https://github.com/soopertramp">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=800&height=100&lines=;+%7C Data Science and Machine Learning Practitioner%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=700&height=100&lines=;+%7C Data Science and Machine Learning Practitioner %7C" alt="Typing SVG" />
   
 
   
