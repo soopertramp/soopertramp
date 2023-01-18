@@ -57,7 +57,7 @@
 <h3 align="left">My Practice :</h3>
 <p align="left">
 
-<a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>
+<a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/soopertramp07?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>
 
 <h3> ⬆️ It's Currently a Private Repository </h3>  
   <br>
