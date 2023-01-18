@@ -1,7 +1,7 @@
 <h1 align="center">
   
   **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Pradeepchandra Reddy S C<b>
-  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /><b>From :india:<b>
+  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /><b>From<b><img src="https://gifscenter.com/wp-content/uploads/2017/05/Indian%20Flag%20waving%20animation%20free%20download.gif" width="20px"
 </h1>
   
 <p align="center">
