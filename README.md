@@ -44,6 +44,8 @@
      
      Twitter - @soopertramp07
   
+     Instagram - @soopertramp07
+  
 <h3 align="left">Check Out My Articles :</h3>
 <p align="left"> 
   
