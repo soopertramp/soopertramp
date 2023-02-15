@@ -95,7 +95,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pradeepchandra&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep's Profile Views"> •  
   <a href="https://user-badge.committers.top/india_private/soopertramp"><img src="https://user-badge.committers.top/india_private/soopertramp.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/soopertramp?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/soopertramp?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <img src="https://img.shields.io/github/stars/soopertramp?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛"> •
   <a href="https://github.com/sponsors/soopertramp"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
