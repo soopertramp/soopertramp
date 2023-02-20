@@ -48,7 +48,7 @@
   
 ## :writing_hand: Check Out My Articles:
   
-<a href="https://medium.com/@pradeepchandrareddy95" target="_blank"><img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium Logo" height="60" width="180" />
+<a href="https://medium.com/@pradeepchandrareddy95" target="blank"><img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium Logo" height="60" width="180" />
   
 ## :globe_with_meridians: Check Out My Portfolio:
 
