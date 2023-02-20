@@ -46,30 +46,28 @@
   
      Instagram - @soopertramp07
   
-<h3 align="left">Check Out My Articles :</h3>
-<p align="left"> 
+## :writing_hand: Check Out My Articles:
   
 <a href="https://medium.com/@pradeepchandrareddy95" target="blank"><img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium Logo" height="60" width="180" />
   
-<h3 align="left">Check Out My Portfolio :</h3>
-<p align="left">
+## :globe_with_meridians: Check Out My Portfolio:
 
 <a href="https://soopertramp.github.io/portfolio/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="pradeepchandra-reddy-s-c/" height="100" width="180" />
   
-<h3 align="left">My Practice :</h3>
-<p align="left">
-
+## :pencil: My Practice:
+  
 <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="blank"><img align="center" src="https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg" alt="pradeepchandra-reddy-s-c/" height="60" width="180" /></a> <a href="https://www.hackerrank.com/soopertramp07?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>
 
 <h3> ⬆️ It's Currently a Private Repository </h3>  
   <br>
-<h3 align="left">My Projects :</h3>
-<p align="left">
+
+## :open_file_folder: My Projects:
+
  <br>
 <a href="https://github.com/soopertramp/My-Projects" target="blank"><img align="center" src="http://projects-studio.co.uk/wp-content/uploads/2017/07/THE-PROJECTS-STUDIO-Logo-v1.png" alt="pradeepchandra-reddy-s-c - Projects" height="60" width="120" /></a>
     <br>
-<h3 align="left">Connect with me :</h3>
-<p align="left">
+
+## :phone: Connect with me:
  
 <a href="https://www.linkedin.com/in/pradeepchandra-reddy-s-c/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="pradeepchandra-reddy-s-c LinkedIn" height="50" width="120" /></a> <br>
   <br>
@@ -77,14 +75,28 @@
 </p>
 
 
-## 🛠 My fancy badge area
+## 🛠 Languages and Tools:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![conda](https://img.shields.io/badge/conda%20-%2342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white) ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml)  ![pycharm](https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  ![latex](https://img.shields.io/badge/latex-000000.svg?&style=for-the-badge&logo=actigraph&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white) 
+![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+![conda](https://img.shields.io/badge/conda%20-%2342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) 
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=black) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml)   
+![latex](https://img.shields.io/badge/latex-000000.svg?&style=for-the-badge&logo=actigraph&logoColor=white)  
   
-<h3 align="left">Languages and Tools:</h3>
-
-</a><a href="https://github.com/soopertramp/Complete-MySQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/>            </a><a href="https://public.tableau.com/app/profile/pradeepchandra.reddy.s.c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/>  </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://numpy.org/images/twitter-image.jpg" alt="scikit_learn" width="100" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="scikitlearn" width="120" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.davecwright.org/files/sps-files/figures/dave/scipy.png" alt="scikit_learn" width="120" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" alt="scikit_learn" width="160" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://jorisvandenbossche.github.io/2018_DigiCosme_Software_Day/img/sklearn_logo.png" alt="scikit_learn" width="120" height="50"/> 
-  <br>
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=soopertramp&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
