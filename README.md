@@ -1,3 +1,9 @@
+<script>
+  var links = document.getElementsByTagName("a");
+  for (var i = 0; i < links.length; i++) {
+    links[i].target = "_blank";
+  }
+</script>
 <h1 align="center">
   
   **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Pradeepchandra Reddy S C<b>
