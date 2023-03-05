@@ -95,10 +95,11 @@
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![latex](https://img.shields.io/badge/latex-000000.svg?&style=for-the-badge&logo=actigraph&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml)   
-![latex](https://img.shields.io/badge/latex-000000.svg?&style=for-the-badge&logo=actigraph&logoColor=white)  
   
-#
+  
+##
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=soopertramp&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
