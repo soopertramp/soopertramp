@@ -50,7 +50,7 @@
   
 ## :globe_with_meridians: Check Out My Portfolio:
 
-<a href="https://shorturl.at/mwyDV" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="pradeepchandra-reddy-s-c/" height="100" width="180" />
+<a href="https://shorturl.at/kFPUY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="pradeepchandra-reddy-s-c/" height="100" width="180" />
   
 ## :pencil: My Practice:
   
